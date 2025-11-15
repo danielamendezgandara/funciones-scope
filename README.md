@@ -155,6 +155,27 @@ tareas.mostrarEstadisticas();
 
 ---
 
+
+---
+
+## ▶️ Cómo ejecutar el proyecto
+
+Este proyecto se ejecuta directamente con **Node.js**.
+
+1. Verifica que Node esté instalado:
+   ```bash
+   node -v
+   ```
+
+2. Abre la terminal en la carpeta del proyecto.
+
+3. Ejecuta el archivo principal:
+   ```bash
+   node funciones-closures.js
+   ```
+
+Esto iniciará la demostración completa del sistema de gestión de tareas implementado con closures.
+
 ## 📦 Conceptos Destacados
 
 - ✔️ Encapsulamiento con closures  
